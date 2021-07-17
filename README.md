@@ -1,8 +1,8 @@
-# Payment-Gateway-Integration-
+# Payment-Gateway-Integration-The Spark Foundation
 
-# Developer - Ehtesham Ali
+## Developer - Ehtesham Ali
 
-# Task
+## Task
 > Payment Gateway Integration - https://confident-poitras-7d2d89.netlify.app/
 
 ## Table of contents
