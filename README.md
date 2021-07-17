@@ -3,7 +3,7 @@
 ## Developer - Ehtesham Ali
 
 ## Task
-> Payment Gateway Integration - https://confident-poitras-7d2d89.netlify.app/
+> Payment Gateway Integration - https://paymentmethodehteshamalitsf.netlify.app/
 
 ## Table of contents
 * Homepage
