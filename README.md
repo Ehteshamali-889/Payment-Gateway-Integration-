@@ -16,7 +16,7 @@
 ## Screenshots
 ![Example screenshot](Home.PNG)<br>
 
-![Example screenshot](Payment%20method.PNG)<br>
+![Example screenshot](Payment.PNG)<br>
 
 ![Example screenshot](Receipt.PNG)
 
